@@ -2,7 +2,6 @@
 UI Clone - Pinterest (Homepage)
 </h1>
 
-<p align="center"><a href="https://pinterest.com">Pinterest Homepage</a></p>
 <p align="center">Deployed <a href="https://pinterest-flax.vercel.app/">here</a>.</p>  
 <h3 align="center">
   <a href="#Resources">Resources</a>&nbsp;|&nbsp;
