@@ -27,7 +27,7 @@
   align-items: center;
 
   transition: 1s;
-
+  // Efeito escadinha
   &:nth-child(1) {
     margin-top: 0;
     transition-delay: $columns-transition-delay * 0;
